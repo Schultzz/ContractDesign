@@ -1,11 +1,10 @@
-c:\users\ms\documents\visual studio 2015\Projects\ContractByCodeDemo\ContractByCodeDemo\bin\Debug\ContractByCodeDemo.exe.config
 D:\Projekter\ContractDesign\ContractByCodeDemo\bin\Debug\ContractByCodeDemo.exe.config
-D:\Projekter\ContractDesign\ContractByCodeDemo\obj\Debug\ContractByCodeDemo.csprojResolveAssemblyReference.cache
-D:\Projekter\ContractDesign\ContractByCodeDemo\obj\Debug\ContractByCodeDemo.exe
-D:\Projekter\ContractDesign\ContractByCodeDemo\obj\Debug\ContractByCodeDemo.pdb
 D:\Projekter\ContractDesign\ContractByCodeDemo\bin\Debug\ContractByCodeDemo.exe
 D:\Projekter\ContractDesign\ContractByCodeDemo\bin\Debug\ContractByCodeDemo.pdb
+D:\Projekter\ContractDesign\ContractByCodeDemo\obj\Debug\ContractByCode.csprojResolveAssemblyReference.cache
 D:\Projekter\ContractDesign\ContractByCodeDemo\obj\Debug\ContractByCodeDemo.rewritten
+D:\Projekter\ContractDesign\ContractByCodeDemo\obj\Debug\ContractByCodeDemo.exe
+D:\Projekter\ContractDesign\ContractByCodeDemo\obj\Debug\ContractByCodeDemo.pdb
 D:\Projekter\ContractDesign\ContractByCodeDemo\obj\Debug\Decl\ContractByCodeDemo.exe
 D:\Projekter\ContractDesign\ContractByCodeDemo\obj\Debug\Decl\ContractByCodeDemo.pdb
 D:\Projekter\ContractDesign\ContractByCodeDemo\obj\Debug\CodeContractAnalysisRun.log
