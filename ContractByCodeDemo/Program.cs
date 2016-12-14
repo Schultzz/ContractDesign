@@ -13,6 +13,9 @@ namespace ContractByCodeDemo
 
         public Program()
         {
+            //account.Deposit(-10);
+            //account.Withdraw(1000);
+
             Console.WriteLine("Would you [d]eposit or [w]ithdraw money? 'eg. d 100'");
             while (true)
             {
@@ -24,11 +27,11 @@ namespace ContractByCodeDemo
 
                     if (option.Equals("d"))
                     {
-                        Console.WriteLine("Balance: "+account.Deposit(amount));
+                        Console.WriteLine("Balance: " + account.Deposit(amount));
                     }
                     else
                     {
-                        Console.WriteLine("Balance: "+account.Withdraw(amount));
+                        Console.WriteLine("Balance: " + account.Withdraw(amount));
                     }
                 }
                 catch (Account.WithdrawExceededException e)

@@ -22,13 +22,19 @@ namespace ContractByCodeDemo
             #region Contract definitions
 
             //pre
-            Contract.Requires(amount > 0);
+            //Contract.Requires(amount > 0);
             //post
             Contract.Ensures(Contract.OldValue(this.balance) < balance);
 
             #endregion
 
             return ChangeBalance(balance + amount);
+        }
+
+        [ContractInvariantMethod]
+        private void Invariant()
+        {
+            Contract.Invariant(balance > 0);
         }
 
         public double Withdraw(double amount)
